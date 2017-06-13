@@ -1,7 +1,5 @@
 # ZS_Competitions
 
-Content
-
 **1. Kaggle: Allstate Event Prediction Competition**     \
 **Problem:** Given the prior events of a customer through his/her lifetime (client_id, timestamp and event_code), predict the next event (event_code) that will happen in his/her life. \
 **Solution:** feature engineering and gradient boosting. \
